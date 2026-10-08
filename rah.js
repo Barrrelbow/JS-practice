@@ -1,6 +1,6 @@
 let cool = 1;
 function rahFunction(){
   let cool += 1;
-  rah.document.getElementById(cool);
+ let rah1 = document.getElementById("rah");
   console.log(cool);
 }
