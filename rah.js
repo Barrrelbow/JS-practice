@@ -1,6 +1,6 @@
  var cool = 1;
 function rahFunction(){
-  cool ++;
+  cool++;
  document.getElementById("rah").textContent = cool;
  
 }
